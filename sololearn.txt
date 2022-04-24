@@ -1,0 +1,4 @@
+I've completed section 60 of Sololearn, beginning with creating my first Script using JavaScript, where I began learning by doing multiline comments and single comments. What are event handlers, what is the Document Object Model (DOM), and how is it used in JavaScript?
+I had a lot of fun completing the challenges and practise problems throughout all 60 sections, and I learned how to use arrays, object literals, and conditional statements.
+
+GIT repo link :- https://github.com/praneelreddy07/JaavaScript.git
